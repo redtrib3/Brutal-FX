@@ -3,7 +3,7 @@ A brute-force Tool for brute forcing social media accounts such as Facebook , gm
 Note: This tool is only for educational purpose and not to be used illegally against anyone and i shall not be held responsible for your misuse of power. 
 
 
-"GUys do not H*ck to learn , learn to H*ck" 
+"GUys Do not learn to Hack , hack to learn" 
                               -Anonymous
 
 
