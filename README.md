@@ -7,4 +7,4 @@ Note: This tool is only for educational purpose and not to be used illegally aga
                               -Anonymous
 
 
-For Linux .
+![alt text](https://github.com/anii-py/Brutal-FX/edit/master/Capture.jpg?raw=true)
