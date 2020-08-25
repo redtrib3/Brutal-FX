@@ -8,3 +8,18 @@ Note: This tool is only for educational purpose and not to be used illegally aga
 ------------------------------------------------------------------------------------------------
 ![Capture](https://user-images.githubusercontent.com/68897241/91045878-91f42b80-e628-11ea-907c-8a895303fdfc.JPG)
 
+Tested in:
+ 1. Kali Linux
+ 2. ubuntu
+ 
+ 
+How To Use :
+in terminal type,
+
+git clone https://github.com/anii-py/Brutal-FX.git
+
+cd Brutal-FX/
+
+pip3 install -r requirements.txt
+
+python3 Brutal-FX.py
