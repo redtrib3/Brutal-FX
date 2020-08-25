@@ -23,3 +23,11 @@ cd Brutal-FX/
 pip3 install -r requirements.txt
 
 python3 Brutal-FX.py
+
+------------------------------------------------------------------------------------------------------
+For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
+
+Thank you 
+Gracias.
+Merci
+ Grazie.
