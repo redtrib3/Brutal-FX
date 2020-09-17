@@ -15,7 +15,7 @@ Tested in:
  
 How To Use :
 in terminal type,
-
+```bash
 git clone https://github.com/anii-py/Brutal-FX.git
 
 cd Brutal-FX/
@@ -23,11 +23,11 @@ cd Brutal-FX/
 pip3 install -r requirements.txt
 
 python3 Brutal-FX.py
-
+```
 ------------------------------------------------------------------------------------------------------
 For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
 Thank you 
 Gracias.
 Merci
- Grazie.
+Grazie.
