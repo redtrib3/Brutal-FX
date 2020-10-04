@@ -11,6 +11,8 @@ Note: This tool is only for educational purpose and not to be used illegally aga
 Tested in:
  1. Kali Linux
  2. ubuntu
+ 3.ParrotSec MATE 
+
  
  
 How To Use :
@@ -27,7 +29,4 @@ python3 Brutal-FX.py
 ------------------------------------------------------------------------------------------------------
 For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
-Thank you 
-Gracias.
-Merci
-Grazie.
+Thank you for using . : )
