@@ -1,5 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-# Brutal-FX
+
+# Brutal-FX     
 
 ### Note: This tool in not currently under maintenance and may include Errors Or Bugs in the program. Sorry for inconvenience .
 
@@ -33,7 +34,8 @@ python3 Brutal-FX.py
 ------------------------------------------------------------------------------------------------------
 For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
-Thank you for using . : )
+Thank you for using . : )  
 
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
