@@ -4,9 +4,8 @@
 
 ### !Note : This Program is not maintained anymore . [01-12-2020]
 
-A brute-force Tool for brute forcing social media accounts such as Facebook , gmail,Hotmail, Twitter ... And more coming soon.
-Note: This tool is only for educational purpose and not to be used illegally against anyone and i shall not be held responsible for your misuse of power. 
-
+A brute-force Tool for brute forcing social media accounts such as Facebook, gmail, Hotmail, Twitter ... And more coming soon.
+Note: This tool is only for educational purpose and not to be used illegally against anyone and i shall not be held responsible for your misuse. Please use it against any application only if you've permission to do so.
 
 "GUys Do not learn to Hack , hack to learn" 
                               -Anonymous
@@ -23,7 +22,7 @@ Tested in:
 How To Use :
 in terminal type,
 ```bash
-git clone https://github.com/anii-py/Brutal-FX.git
+git clone https://github.com/0xRedTribe/Brutal-FX.git
 
 cd Brutal-FX/
 
@@ -34,7 +33,7 @@ python3 Brutal-FX.py
 ------------------------------------------------------------------------------------------------------
 For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
-Thank you for using . : )  
+Thank you !! : )  
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
