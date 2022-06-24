@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #Importing modules
 #note: Modules :Proxylist,mechanize,cookielib are not inbuilt in python and needs to be installed through Pip3
 
