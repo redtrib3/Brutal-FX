@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
+
 # Brutal-FX     
 
 ### !Note : This Program is not maintained anymore . [01-12-2020]
@@ -35,6 +35,5 @@ For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
 Thank you !! : )  
 
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-
+[![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
