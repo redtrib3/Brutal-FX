@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
+[![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
 # Brutal-FX     
 
 ### !Note : This Program is not maintained anymore . [01-12-2020]
