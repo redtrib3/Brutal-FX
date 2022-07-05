@@ -1,4 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg?style=for-the-badge&label=Hits%2Fweek&extraCount=10&color=585858&labelColor=000000&logo=github)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
 
 # Brutal-FX     
 
@@ -35,5 +36,4 @@ For Tutorial check my youtube : https://youtu.be/kw5XugeTrg4
 
 Thank you !! : )  
 
-[![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
