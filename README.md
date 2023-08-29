@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 [![Hits](https://hits.sh/github.com/0xRedTribe/Brutal-FX.svg?style=for-the-badge&label=Hits&color=585858&labelColor=000000&logo=github)](https://hits.sh/github.com/0xRedTribe/Brutal-FX/)
 
 # Brutal-FX     
