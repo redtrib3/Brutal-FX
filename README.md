@@ -16,14 +16,14 @@ Note: This tool is only for educational purpose and not to be used illegally aga
 Tested in:
  1. Kali Linux
  2. Ubuntu
- 3. Parrot Security OS 
+ 3. Parrot 
 
  
  
 How To Use :
 in terminal type,
 ```bash
-git clone https://github.com/0xRedTribe/Brutal-FX.git
+git clone https://github.com/redtrib3/Brutal-FX.git
 
 cd Brutal-FX/
 
